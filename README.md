@@ -1,13 +1,13 @@
 # first-next
 
-#install
+#install:
 npm install
 
-#dev mode
+#dev mode:
 npx next dev
 
-#bulid
+#bulid:
 npx next build
 
-#start
+#start:
 npx next start
