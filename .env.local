@@ -1,0 +1,3 @@
+DB_HOST=localhost
+DB_USER=tutorialspoint
+DB_PASS=nextjs
